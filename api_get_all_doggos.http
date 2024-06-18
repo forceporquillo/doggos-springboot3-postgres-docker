@@ -1,0 +1,3 @@
+### GET request to fetch all doggos
+GET http://localhost:8080/doggos
+###

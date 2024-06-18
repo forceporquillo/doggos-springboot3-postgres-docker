@@ -1,0 +1,3 @@
+### GET request to fetch dog by breed
+GET http://localhost:8080/doggos/breed/{{type}}
+###
